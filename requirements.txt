@@ -1,7 +1,6 @@
 gunicorn    # 必ず必要なので記載する
 requests
 numpy
-pandas
 flask
 pillow
 tensorflow
